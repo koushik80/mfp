@@ -1,1 +1,1 @@
-# Linking multiple apps together [microforntend]
+# Linking multiple apps together [microfrontends]
