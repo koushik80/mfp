@@ -1,0 +1,1 @@
+# Linking multiple apps together [microforntend]
