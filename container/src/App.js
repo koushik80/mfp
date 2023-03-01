@@ -1,11 +1,11 @@
 import React from 'react';
 import MarketingApp from './components/MarketingApp'
+import Header from './components/Header';
 
 const App = () => {
   return (
     <div>
-      <h1>Hello AWS!</h1>
-      <hr />
+      <Header />
       <MarketingApp />
     </div>
   );
