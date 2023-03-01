@@ -6,11 +6,11 @@ on:
     branches:
       - master
     paths:
-      - 'marketing/**'
+      - '/marketing/**'
 
 defaults:
   run:
-    working-directory: /marketing
+    working-directory: marketing
 
 jobs:
   build:
