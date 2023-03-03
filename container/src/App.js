@@ -23,7 +23,7 @@ const App = () => {
 
   useEffect(() => {
     if (isSignedIn) {
-      history.push('./dashboard');
+      history.push('/dashboard');
     }
   }, [isSignedIn]);
 
@@ -54,5 +54,4 @@ const App = () => {
 }
 
 export default App;
-
 
